@@ -3,6 +3,11 @@
 Automate the configuration of a `primary-replica` architecture for `PostgreSQL` under `Docker Compose` using a `Makefile` and `shell` script.
 
 
+## Demo
+
+<a href="https://www.youtube.com/watch?v=es8I_ObKYNc&ab_channel=ZhuDev" target="_blank">
+ <img src="https://raw.githubusercontent.com/jason810496/Postgresql-Primary-Replica-Auto-Setup/main/docs/demo.png" alt="demo" height="300" />
+</a>
 
 
 ## Usage
