@@ -1,5 +1,8 @@
 # Postgresql Replica-Priamry Auto-Setup
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DB : postgresql](https://img.shields.io/badge/DB-postgresql-blue.svg)](https://www.postgresql.org/)
+
 Automate the configuration of a `primary-replica` architecture for `PostgreSQL` under `Docker Compose` using a `Makefile` and `shell` script.
 
 
@@ -9,6 +12,7 @@ Automate the configuration of a `primary-replica` architecture for `PostgreSQL` 
  <img src="https://raw.githubusercontent.com/jason810496/Postgresql-Primary-Replica-Auto-Setup/main/docs/demo.png" alt="demo" height="300" />
 </a>
 
+Click image to watch demo video on YouTube ☝️
 
 ## Usage
 ```bash
