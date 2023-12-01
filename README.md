@@ -22,7 +22,7 @@ Click image to watch demo video on YouTube ☝️
 
 ## Usage
 ```bash
-make primary-replica
+make all
 # wait input of `pg_basebackup` command with `REPLICA_PASSWORD` password authentication input
 ```
 > `REPLICA_PASSWORD` is the password of the `REPLICA_USER` user in the `primary` container. <br>
